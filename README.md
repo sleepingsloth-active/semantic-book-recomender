@@ -40,4 +40,7 @@ A semantic search engine and interactive web app to recommend books based on **u
 ##Install dependencies:
 pip install pandas numpy gradio langchain chromadb sentence-transformers python-dotenv
 
+##screenshots:
+![image alt](https://github.com/sleepingsloth-active/book-recomender/blob/main/Screenshot%20(94).png?raw=true)
+![image alt]()
 
