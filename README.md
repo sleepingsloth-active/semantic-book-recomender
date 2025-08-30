@@ -42,5 +42,5 @@ pip install pandas numpy gradio langchain chromadb sentence-transformers python-
 
 ##screenshots:
 ![image alt](https://github.com/sleepingsloth-active/book-recomender/blob/main/Screenshot%20(94).png?raw=true)
-![image alt]()
+![image alt](https://github.com/sleepingsloth-active/book-recomender/blob/main/Screenshot%20(95).png?raw=true)
 
