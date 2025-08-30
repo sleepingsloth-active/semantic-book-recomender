@@ -36,9 +36,7 @@ A semantic search engine and interactive web app to recommend books based on **u
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/book-recommender.git
-## Screenshots
-<img width="1486" height="972" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/2877697d-5fa7-4af9-8a2e-530a1af68e69" />
-<img width="1500" height="956" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/f6e40391-e4f8-4bc6-9477-54572cdaccd7" />
+
 ##Install dependencies:
 pip install pandas numpy gradio langchain chromadb sentence-transformers python-dotenv
 
